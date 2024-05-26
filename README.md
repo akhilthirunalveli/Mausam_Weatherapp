@@ -1,7 +1,5 @@
+![Mausam Logo](assest/images/Logo1.png)
 # Mausam - Weather App
-
-![Mausam Logo](path-to-your-logo-image)
-
 Mausam is a sleek and user-friendly weather application that provides accurate and up-to-date weather information for any location around the globe. With Mausam, you can get current weather conditions, hourly forecasts, and a 7-day weather outlook.
 
 ## Features
